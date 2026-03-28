@@ -17,6 +17,11 @@ Baza legala principala: Legea nr. 31/1990 privind societatile, republicata, cu m
 - Continut obligatoriu (art. 7-8): denumire, sediu, obiect de activitate, capital social, partile sociale, administratori, durata societatii
 - Forma: inscris sub semnatura privata sau forma autentica notariala (obligatorie cand aportul include un imobil)
 
+> **Flag legislativ - Legea 299/2024:** Legea nr. 31/1990 a fost amendată prin Legea nr. 299/2024,
+> adoptată pentru alinierea la directive europene recente privind dreptul societăților. Conținutul
+> exact al modificărilor trebuie verificat în Monitorul Oficial. Orice analiză privind constituirea,
+> cesiunea sau structura SRL trebuie să ia în calcul această versiune consolidată post-2024.
+
 ### 1.3 Inmatriculare
 - Registrul Comertului (ONRC)
 - Personalitate juridica de la data inmatricularii (art. 41)
@@ -114,8 +119,8 @@ Baza legala principala: Legea nr. 31/1990 privind societatile, republicata, cu m
 
 ## 7. Aspecte fiscale relevante (intersectie drept comercial - drept fiscal)
 
-- Impozit pe profit: 16% (cota generala) sau impozit pe veniturile microintreprinderilor (1% sau 3%, in functie de venituri si numarul de salariati - regim modificat frecvent)
-- Distributia dividendelor: impozit pe dividende 8% (modificat prin Legea 296/2023)
-- TVA: obligatorie la depasirea plafonului de 300.000 lei/an (plafon modificat prin transpunere directiva UE - verificati valoarea in vigoare)
+> **Avertisment:** Regimul fiscal al microintreprinderilor, cotele de impozitare și plafonul de TVA sunt modificate frecvent prin OUG-uri și legi anuale ale bugetului. Toate valorile de mai jos sunt orientative. Verificati Codul Fiscal in vigoare la data analizei pe www.monitoruloficial.ro.
 
-> **Avertisment:** Regimul fiscal al microintreprinderilor si plafonul de TVA sunt modificate frecvent. Verificati Codul Fiscal in vigoare la data analizei.
+- Impozit pe profit: cota generala in vigoare la data analizei, sau impozit pe veniturile microintreprinderilor (cotele in vigoare la data analizei, in functie de venituri si numarul de salariati - regim modificat frecvent)
+- Distributia dividendelor: impozit pe dividende la cota in vigoare la data analizei (Legea 296/2023 ca punct de plecare, nu ca sursa definitiva - verificati modificarile ulterioare)
+- TVA: obligatorie la depasirea plafonului in vigoare la data analizei (plafonul este modificat periodic prin transpunere directiva UE si legislatie nationala)

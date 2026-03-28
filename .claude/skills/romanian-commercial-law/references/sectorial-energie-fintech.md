@@ -14,6 +14,10 @@
 - Obligatii de achizitie pentru furnizori
 - **Atentie:** legea a suferit multiple modificari prin OUG-uri; verificati forma consolidata la zi
 
+> **Flag post-august 2025:** Schema de sprijin prin certificate verzi și mecanismele conexe
+> sunt supuse modificărilor legislative frecvente prin OUG. Verificați forma consolidată
+> la zi pe monitoruloficial.ro înainte de orice referință contractuală la această lege.
+
 #### 1.3 Legea nr. 184/2018 privind eolianul offshore (partial)
 - Cadru pentru instalatii eoliene in platoul continental al Marii Negre
 - Procedura de concesiune si acordare de licente
@@ -95,6 +99,12 @@
 ### 6. NIS2 - Directiva (UE) 2022/2555
 
 - Transpusa in dreptul national (verificati actul de transpunere romanesc in vigoare)
+
+> **Flag legislativ - transpunere România:** Termenul de transpunere NIS2 era 17 octombrie 2024.
+> La data de referință a acestui skill (august 2025), România înregistra întârziere în transpunere.
+> Verificați obligatoriu dacă actul de transpunere a fost adoptat și publicat în Monitorul Oficial
+> înainte de orice analiză de conformitate pentru operatori din sectorul energiei.
+
 - Se aplica operatorilor de servicii esentiale si furnizorilor de servicii digitale
 - **Sectorul energiei:** operatorii din energie sunt entitati esentiale sub NIS2
 - **Obligatii:** masuri de securitate cibernetica, raportarea incidentelor, gestionarea riscurilor in lantul de aprovizionare

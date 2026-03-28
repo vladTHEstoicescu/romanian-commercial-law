@@ -1,30 +1,14 @@
 ---
 name: romanian-commercial-law
 description: >
-  Asistenta juridica in drept comercial romanesc: redactare clauze contractuale,
-  analiza juridica structurata, memorandumuri de risc, conformitate societara SRL,
-  negociere contracte comerciale, insolventa, drept sectorial energie/fintech/ESG,
-  conformitate MiCA, CSRD, EU Taxonomy, obligatii ANRE.
-triggers:
-  - redactare contract
-  - clauza contractuala
-  - analiza juridica
-  - memorandum risc
-  - conformitate SRL
-  - insolventa
-  - drept comercial
-  - energie regenerabila
-  - fintech
-  - ESG
-  - MiCA
-  - token
-  - CSRD
-  - penalitate contractuala
-  - forta majora
-  - cesiune parti sociale
-  - dizolvare SRL
-  - concordat preventiv
-  - ANRE
+  Folosește acest skill ori de câte ori utilizatorul solicită asistență juridică în drept comercial românesc,
+  indiferent de formularea cererii. Acoperă: redactarea și negocierea clauzelor contractuale (penalități,
+  forță majoră, reziliere, limitarea răspunderii, confidențialitate, non-concurență), analiza juridică
+  structurată, memorandumuri de risc, conformitate societară SRL (cesiune părți sociale, adunare generală,
+  administratori, dizolvare), insolvență și concordat preventiv, contracte din sectorul energiei (PPA,
+  furnizare, racordare), obligații ANRE, tokenizare și conformitate MiCA, raportare CSRD și EU Taxonomy,
+  clauze ESG în contracte comerciale. Declanșează și pentru întrebări indirecte care implică aceste domenii,
+  chiar dacă utilizatorul nu menționează explicit termenii juridici.
 ---
 
 # Drept Comercial Romania - Skill de Asistenta Juridica
@@ -64,8 +48,11 @@ Citeste fisierele de referinta in functie de domeniul cererii:
 | Insolventa, concordat preventiv, creditori | `references/insolventa.md` |
 | Energie, ANRE, fintech, MiCA, ESG, CSRD, tokenizare | `references/sectorial-energie-fintech.md` |
 | Surse normative, link-uri, consolidari | `references/surse-normative.md` |
+| Modificări legislative recente (auto-generate săptămânal) | `references/actualizari-legislative.md` |
 
-Citeste `references/surse-normative.md` la fiecare cerere pentru a verifica actualitatea surselor.
+Citeste `references/surse-normative.md` doar când cererea implică citarea explicită a unui text normativ sau verificarea actualizării legislative a unei surse specifice.
+
+Citeste `references/actualizari-legislative.md` la orice cerere care implică surse normative marcate cu risc RIDICAT în `surse-normative.md`. Dacă fișierul conține rezultate pentru sursa relevantă, integrează informația în analiză și menționează data generării.
 
 ## Formate de output
 
